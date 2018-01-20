@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+	font-family: serif;
+	font-size: 20px;
+	width:100%;
+	margin:auto;
+	background-color: #00FFFF;
+}
+h1{
+	font: normal;
+	font-family: serif;
+	text-align: center;
+	padding:10px;
+}
+
+.div1{
+	text-align: center;
+	margin-left:40%;
+	
+}
+
+.td1{
+	font-weight:bold;
+	text-align: right;
+}
+
+.data{
+	text-align: left;
+}
+
+.submit1{
+	font-weight:bold;
+	text-align: right;
+}
+
+.reset1{
+	font-weight:bold;
+	text-align: left;
+}
+

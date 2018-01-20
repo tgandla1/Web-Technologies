@@ -1,0 +1,111 @@
+html
+{ 
+
+background-image: url("brinjal.jpg");
+  height: 100%;
+    padding: 20px;
+
+}
+
+h1, h2
+{ color: #A4A400;
+  background: #F0F0F0;
+  font-family:Century Gothic, Futura, Verdana;
+  text-align: center;
+  letter-spacing:0.5px;
+}
+
+body
+{ 
+
+  font-family:georgia,garamond,serif;
+  background: #FFCC00;
+  color: #000000;
+  padding:10px;
+  
+}
+
+
+
+
+
+
+.span2
+{
+ font-weight:bold
+}
+
+
+
+
+table {
+	border-collapse: collapse;
+   	background-color:#CC9933;
+	color:#FFFFFF;
+	
+margin-top:20px;
+}
+
+th {
+    text-align: center;
+	background-color:#003366;
+	color:#FFFFFF;
+	border:solid;
+	border-color:#FFFFFF;
+	border-width:2px;
+	padding:5px;
+}
+
+td
+{
+	border:solid;
+	border-color:#FFFFFF;
+	border-width:2px;
+	padding:5px;
+}
+
+caption.caption1
+{
+	font-weight:bold;
+	font-family:Century Gothic, Futura, Verdana;
+	background: #F0F0F0;
+	color: #A4A400;
+}
+
+	
+
+	
+#path {
+    float:left;
+	margin-left:50px;
+    padding:0px;	      
+}
+
+ul#Navigation {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding: 0;
+   
+}
+
+ul#Navigation li a {
+    background-color: #DCD191;
+    color: blue;
+    padding: 6px;
+ text-decoration:none;
+	border-right-color:blue;
+	border-right-style:solid;
+	border-right-width:10px;
+	overflow:hidden;
+}
+ul#Navigation li{
+ display: inline;
+ font-family:Berlin Sans FB;
+ 
+}
+
+
+ul#Navigation li a:hover {
+    background-color: #F0F0F0;
+}

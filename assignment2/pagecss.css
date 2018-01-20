@@ -1,0 +1,105 @@
+
+body
+{ 
+
+  font-family:georgia,garamond,serif;
+ background:#ADD8E6;
+  color: #000000;
+  padding:10px;
+background-repeat:no-repeat;
+}
+html
+{ 
+  height: 100%;
+  background-image: url("fruit.jpg"); background-attachment: fixed;background-repeat: no-repeat;background-size: cover;padding: 20px; padding:20px;
+  }
+h1, h2
+{ 
+color: #A4A400;
+ 
+ font-family:Century Gothic, Futura, Verdana;
+  text-align: center;
+}
+
+img
+{
+display: block;
+margin-left: auto;
+    margin-right: auto;
+}
+
+/*#style3
+{
+text-decoration:underline;
+}*/
+
+
+.span2
+{
+ font-weight:bold;
+}
+.span1
+{
+ font-weight:bold;
+}
+
+
+figure
+{
+	text-align:center;
+}
+
+
+a,a:hover
+{ outline: none;
+  text-decoration: underline;
+  color: #A4A400;
+  }
+ 
+ a:hover
+{ text-decoration: none;
+background-color: #43423F;}
+
+  
+
+
+img.hoveringicon {
+ float: right;
+ margin-right: 1em;
+}
+
+
+table {
+    width: 100%;
+	border-collapse: collapse;
+}
+
+
+
+#path{
+    float:left;
+	margin-left:50px;
+    padding:0px;	      
+}
+ul#Navigation li{
+ display: inline;
+ font-family:Berlin Sans FB;
+ color:#F0F0F0;
+}
+
+
+ul#Navigation li a {
+    background-color: #DCD191;
+    color: blue;
+    padding: 6px;
+    text-decoration:none;
+	border-right-color:blue;
+	border-right-style:solid;
+	border-right-width:10px;
+	overflow:hidden;
+}
+
+
+ul#Navigation li a:hover {
+    background-color: #FF0000;
+}

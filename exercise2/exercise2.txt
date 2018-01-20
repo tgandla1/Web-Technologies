@@ -1,0 +1,12 @@
+html:
+
+http://codd.cs.gsu.edu/~tgandla1/exercise2/exercise2.html
+http://codd.cs.gsu.edu/~tgandla1/exercise2/exercise2.php
+
+
+
+
+
+GITHUB:
+
+https://github.com/tgandla1/exercise2

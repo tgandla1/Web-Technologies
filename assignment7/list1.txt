@@ -1,0 +1,1 @@
+Data visualization is about visualizing data by using Google chart, Google map API, Tableau, R, etc. This course is taught by Prof. Zhu.

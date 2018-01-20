@@ -1,0 +1,101 @@
+
+
+
+
+body
+
+{
+
+   background-color:#00FFFF  ;
+
+   font-family:Georgia;
+
+   font-size:12px;
+    color:#FDFEFE  
+;
+
+}
+
+
+
+#table1
+
+{
+
+   border-collapse:collapse;
+
+   border-top:7px;
+
+   margin:5px 10px 10px;
+
+}
+
+#table1 .header1
+
+{
+
+   color:#85C1E9;
+
+   font-size:24px;
+
+   font-weight:400;
+
+   padding-left:5px;
+
+   text-align:left;
+
+   text-decoration:none;
+
+   width:220px;
+
+}
+
+#table1 .even
+
+{
+
+   background-color:#FFFF00    ;
+
+   height:40px;
+
+}
+
+#table1 .odd
+
+{
+
+   background-color:#FF0000  ;
+
+   height:40px;
+
+}
+
+#table1 .hd1
+
+{
+
+   text-align:right;
+
+   width:60px;
+
+}
+
+.div1
+
+{
+
+   
+
+   border:5px solid #F5B7B1  ;
+
+   font:12px Verdana, Arial, Helvetica, sans-serif;
+
+   margin:20px auto;
+
+   padding:0;
+
+   width:760px;
+
+}
+
+

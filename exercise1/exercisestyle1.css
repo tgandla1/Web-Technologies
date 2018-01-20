@@ -1,0 +1,190 @@
+
+/*<html>
+<head>*/
+
+<title>CSc 1301 Prnciples of Computer Science - FALL 2016</title>-->
+/*<style>*/
+ 
+
+  #main-col {
+    width: 850px;
+    margin: 0 auto;
+    padding: 0;
+	background-color: #A8F0F0;
+    text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+
+  #hd {
+    border-bottom: 2px solid #003399;
+    margin-bottom: 25px;
+	
+	background-color: #A8F0F0;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+
+  img {
+    border: 0;
+	background-color: #A8F0F0;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+
+  h1 {
+    font-size: 18px;
+	border: 4px #C2E9E9 Solid; 
+	background-color: #E8FBFB;
+
+    padding: 5px;
+    margin-top: 10px;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+
+  }
+
+  h3 {
+    font-size: 16px;
+	border: 10px white Solid; 
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+   h2 {
+    font-size: 14px;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	}
+
+  a:link, a:active, a:visited {
+    color: #1122CC;
+     cursor: pointer;
+	 text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+
+  }
+
+  div {
+    margin: 0;
+    padding: 0;
+	border: 10px white Solid; 
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+  	div.cake1 {
+   background-color: orange;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+} 
+    
+
+  .section {
+    margin: 15px 0 10px;
+    line-height: 130%;
+    padding-bottom: 12px;
+    border-bottom: 1px dotted #ccc;
+	background-color: #A8F0F0;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+  }
+
+  .section.noline {
+    border: 0;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+  }
+
+  .section h1, .section h3 {
+    color: #003399;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+  }
+
+  .at {
+    width: 15px;
+    vertical-align: text-bottom;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+  }
+
+  hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+	border: 5px red Solid; 
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+  h3 {
+font-family: Verdana;
+color: red;
+background-color: #A8F0F0;
+text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+p{
+text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+
+
+#box{
+    position: relative;
+}
+
+#box .ico {
+   position: absolute;
+   right: 10px;
+   display: none;
+}
+
+#box:hover .ico {
+    display: block;
+}
+	
+	body 
+	{
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    min-width: 850px;
+    color: #333333;
+	border: 10px white solid; 
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("background1.jpg");
+	 background-size: 100% 100%;
+  }
+ /* #span1{
+    style="color:brown';
+  }*/
+
+/*</style>*/
+/*</head>
+</html>-->*/

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head><link rel='stylesheet' type='text/css' href='editor.css'>
+<title>Lokesh</title>
+	</head>
+<body>
+<h1>Part 1<br/>Text Editor </h1>
+
+<form action= "editor.php" method="post">
+<h3> Enter text </h3>
+<p>
+<textarea rows="25" cols="80" name="text">
+</textarea><br/><br/>
+Select font family:<select name= "font">
+
+<option value="CourierNew">Comic Sans</option>
+<option value="Comic">CourierNew</option>
+<option value="Calibri">Times New Roman</option>
+<option value="Times New Roman">Arial</option>
+
+</select>
+
+<br/><br/>
+Select your font size:<select name= "size">
+<option value="20pt">20pt</option>
+<option value="30pt">30pt</option>
+<option value="40pt">40pt</option>
+</select><br/><br/>
+
+Select your font color:<select name= "color">
+
+<option value="yellow">Yellow</option>
+<option value="green">Green</option>
+<option value="red">Red</option>
+
+</select><br/><br/>
+Select your font style:
+<select name= "font-style">
+<option value="i">Italic</option>
+<option value="b">Bold</option>
+
+
+</select><br/><br/>
+<input type="submit" name="submit" value="Apply">
+</form>
+</body>
+</html>
